@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AvatarController" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAACEAASFAAJkQEIAgFAAIAKAIEIAGCAhAwAAQAAMA=</HashCode>
+      <FileName>Assets\KinectScripts\AvatarController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AvatarControllerClassic" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAMhAACYFIDEACAAQACAAIIgBAIgAAAQACAAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\AvatarControllerClassic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CubemanController" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQCAAUBACAACIAAAJADACMAAAIAAAigFIEAIJCBKAA=</HashCode>
+      <FileName>Assets\KinectScripts\Cubeman\CubemanController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoneOrientationsConstraint" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAwAAAIAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\BoneOrientationsConstraint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoneOrientationsFilter" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEABAAAEAAAAAAAAAAAAAIAAAAKAAAAAgA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\BoneOrientationsFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClippedLegsFilter" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAAAAEBAAAAEEgAIAQAAAEAIAAAAAQAAAgCAA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\ClippedLegsFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JointPositionsFilter" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEABAAAEAAAAAAAAAAAAAIAAAAKAAAAAgA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\JointPositionsFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectHelper" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgACABACAAAQAAAABAAAAQAAIAAAAAAAAACgAIA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\KinectHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelfIntersectionConstraint" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAEAIAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\SelfIntersectionConstraint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimedLerp" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAABIAQAAEAABAAAAAAAAAAIAAhAQAAQIA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\TimedLerp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrackingStateFilter" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEABAAAEAAAAAAAAAAAAAIAAAAKAAAAAgA=</HashCode>
+      <FileName>Assets\KinectScripts\Filters\TrackingStateFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectGestures" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAJBAAAAAAQyACAAAAQhAACAAEAAAAAAIAAIAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\KinectGestures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectManager" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>B7UxE1WLb1fAgU0qgC0yFg9C0MxGBFFidWWptMIEB/U=</HashCode>
+      <FileName>Assets\KinectScripts\KinectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectWrapper" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAApAgAEDIqEACMABQCAAIAAAAGAAAAEAQEAMJQFY=</HashCode>
+      <FileName>Assets\KinectScripts\KinectWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FollowUserRotation" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\Samples\FollowUserRotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetJointPositionDemo" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAAAAAAAICAAAAAAAAEAAAIAAAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\Samples\GetJointPositionDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadMainLevel" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\Samples\LoadMainLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseControl" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAAAAIAAAAAAEAAAAAAAAAAAAGAAAKAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\Samples\MouseControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetSceneAvatars" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\KinectScripts\Samples\SetSceneAvatars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleGestureListener" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAIAAAAAAAAAAAAAEIAAAAQQAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\KinectScripts\Samples\SimpleGestureListener.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
